@@ -12,4 +12,4 @@ Every things just work fine.
 | OpenCore              | 0.9.2                                                      |
 | macOS                 | Ventura 13.4                                               |
 
-![Screenshot 2023-06-04 at 09.35.24](./pic/Screenshot 2023-06-04 at 09.35.24.png)
+![Screenshot 2023-06-04 at 09.35.24](https://github.com/bing1234/Gigabyte-Z390I-OC/blob/main/pic/systeminfo.png)
